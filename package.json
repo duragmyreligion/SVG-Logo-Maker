@@ -1,6 +1,9 @@
 {
   "dependencies": {
-    "inquirer": "^9.2.10",
+    "esm": "^3.2.25",
+    "fs": "latest",
+    "inquirer": "latest",
+    "is-css3-color": "^1.0.0",
     "jest": "^29.6.4"
   }
 }
