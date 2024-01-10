@@ -11,7 +11,8 @@ The SVG Logo Maker Software is a versatile and user-friendly application designe
 3. [License](#license)
 4. [Contributing](#contributing)
 5. [Tests](#tests)
-6. [Questions](#questions)
+6. [Video-Tutorial](#video-tutorial)
+7. [Questions](#questions)
 
 ## Installation
 To install the necessary dependencies, run the following command:
@@ -37,6 +38,12 @@ N/A
 ## Tests
 To run tests, run the following command:
 Use the command 'npx jest' in the integrated terminal whilst in the test file location.
+
+## Video Tutorial
+
+Below is how to use the software:
+
+https://drive.google.com/file/d/1fJQMIOFR60Khvn16-cj3R3gxGgaSlAEM/view
 
 ## Questions
 If you have any questions about this repo, open an issue or contact me directly at [samuelkininmonth@hotmail.com](mailto:samuelkininmonth@hotmail.com). You can find more of my work at [duragmyreligion](https://www.github.com/duragmyreligion).
